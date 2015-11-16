@@ -11,3 +11,6 @@ ZMDevToolKitDemo展示了三大功能：1.应用内文件系统查看及删除�
     1.NSUserDefault数据库只能查看standardUserDefault；需要查看其他的，请自行修改源码；
     
     2.MagicalRecord数据库只能查看defaultContext;需要查看其他的，请自行修改源码；
+效果图：
+![image](https://github.com/kongcup/ZMDevToolKitDemo/raw/master/video.gif)
+
